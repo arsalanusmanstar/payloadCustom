@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb+srv://starmarketing:Crystalball007@cluster0.u64nt.mongodb.net/payloadDev?authSource=admin&replicaSet=atlas-cnbwsk-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
+PAYLOAD_SECRET=Crystalball007
+AWS_REGION=us-east-2
+ACCESS_KEY_ID=AKIAYNI2EN5M2RFMNF52
+SECRET_ACCESS_KEY=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
